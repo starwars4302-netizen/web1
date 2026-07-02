@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: rgb(140, 201, 201);
+    color: rgb(46, 164, 255);
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    height: 95px;
+}
+
+section{
+    display:webkit-flex;
+    display:flex;
+}
+
+nav{
+    background-color: rgb(101, 157, 138);
+    width: 25%;
+    padding: 30px;
+    webkit-flex: 1;
+    ms-flex: 1;
+    flex: 1;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+article{
+
+    background-color: rgb(116, 182, 160);
+    width: 75%;
+    padding: 43px;
+    webkit-flex: 3;
+    ms-flex: 3;
+    flex: 3;
+}
+
+footer{
+    background-color: rgb(140, 201, 201);
+    color: rgb(254, 254, 255);
+    text-align: center;
+    padding: 20px;
+}

@@ -1,0 +1,7 @@
+1. The float required more in depth measurements where as the flex was more plug in play once you put it into the script.
+
+2. The flex was far more easier to use. As mentioned above once you typed it into the script it easily got the measurements with little to no adjustments. The float required more tweaking and adjusting which was more frustrating to say the least.
+
+3. one challenge i faced that i couldn't resolve was having the colors fill the entire page (especially the float method). i kept going back and adjusting the measurements and the padding but nothing worked and i had the same issue with the flex method as well.
+
+4. Using VS code

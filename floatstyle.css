@@ -1,0 +1,39 @@
+body{
+
+    margin: 0;
+}
+
+header{
+
+    background-color: rgb(140, 201, 201);
+
+    color: rgb(46, 164, 255);
+
+    text-align: center;
+
+    padding: 20px;
+color: rgb(255, 255, 255);
+} 
+
+nav{
+    float: left;
+    width: 25%;
+    height: 325px;
+    background: rgb(101, 157, 138);
+    padding: 30px;
+}
+
+article{
+    float: left;
+    width: 65%;
+    background-color: rgb(116, 182, 160);
+    height: 300px;
+    padding:43px;
+}
+
+@media (max-width: 600px) {
+    nav, article {
+        width: 100%;
+        height: auto;
+    }
+}
